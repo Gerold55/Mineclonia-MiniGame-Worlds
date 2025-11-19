@@ -1,0 +1,1 @@
+{"config":"return {lobby_spawn={y=10,z=0,x=0},arenas={cove={spawn_points={{y=8,z=240,x=205}},radius=128,label=\"Cove\",max_players=8}},player_spawns={singleplayer={y=19,z=206,x=215}}}"}

@@ -1,0 +1,126 @@
+extended_attributes = {"doc:revealed_data":"local _={};_[1]=\"craftitems\";_[2]=\"advanced\";return {revealed={[_[1]]={[\"mcl_bone_meal:bone_meal\"]=true,[\"mcl_mobitems:rotten_flesh\"]=true,[\"mcl_core:emerald\"]=true,[\"mcl_buckets:bucket_empty\"]=true,[\"mcl_buckets:bucket_water\"]=true,[\"mcl_bows:arrow\"]=true,[\"mcl_nether:glowstone_dust\"]=true},[_[2]]={},mobs={[\"mobs_mc:sheep\"]=true},nodes={[\"mcl_core:ladder\"]=true,[\"mcl_core:stone_with_redstone\"]=true,[\"mcl_dispensers:dispenser\"]=true,[\"mcl_heads:skeleton\"]=true,[\"mcl_buttons:button_stone_off\"]=true,[\"mcl_core:stone_with_emerald\"]=true,[\"mcl_fences:oak_fence\"]=true,[\"mcl_stairs:slab_dark_oak\"]=true,[\"mcl_stairs:slab_cobble\"]=true,[\"mcl_redstone:redstone\"]=true,[\"mcl_stairs:slab_spruce_double\"]=true,[\"mcl_sponges:sponge_wet\"]=true,[\"mcl_stairs:slab_oak\"]=true,[\"mcl_nether:netherrack\"]=true,[\"mcl_nether:glowstone\"]=true,[\"mcl_core:barrier\"]=true,[\"mcl_stairs:slab_spruce\"]=true,[\"mcl_wool:white_carpet\"]=true,[\"mcl_core:emeraldblock\"]=true,[\"mcl_flowers:dandelion\"]=true,[\"mcl_redstone_torch:redstoneblock\"]=true,[\"mcl_stairs:stair_spruce\"]=true,[\"mcl_stairs:stair_oak\"]=true,[\"mcl_core:slimeblock\"]=true,[\"battle_lobby:flow_barrier\"]=true},basics={},tools={[\"mcl_fire:flint_and_steel\"]=true}},revealed_count={[_[1]]=13,[_[2]]=8,mobs=1,tools=9,basics=25,nodes=159},viewed={[_[1]]={},[_[2]]={},mobs={},nodes={},basics={},tools={}},viewed_count={[_[1]]=0,[_[2]]=0,mobs=0,tools=0,basics=0,nodes=0}}","mcl_armor:armor_points":"0","mcl_burning:data":"return {}","mcl_craftguide:progress":"return {\"mcl_torches:torch\",\"mcl_nether:glowstone_dust\",\"mcl_buttons:button_stone_off\",\"mcl_core:stone_with_emerald\",\"mcl_trees:tree_oak\",\"mcl_trees:tree_spruce\",\"mcl_stairs:slab_dark_oak\",\"mcl_heads:wither_skeleton\",\"mcl_core:sand\",\"mcl_sponges:sponge\",\"mcl_sponges:sponge_wet\",\"mcl_stairs:slab_oak\",\"mcl_buckets:bucket_empty\",\"mcl_buckets:bucket_water\",\"mcl_stairs:slab_spruce\",\"mcl_stairs:stair_oak\",\"mcl_redstone_torch:redstoneblock\",\"mcl_trees:leaves_oak\",\"mcl_trees:wood_dark_oak\",\"mcl_trees:wood_spruce\",\"mcl_nether:netherrack\",\"mcl_heads:skeleton\",\"mcl_panes:bar_flat\",\"mcl_stairs:slab_cobble\",\"mcl_bone_meal:bone_meal\",\"mcl_mobitems:rotten_flesh\",\"mcl_core:cobble\",\"mcl_fences:oak_fence\",\"mcl_core:slimeblock\",\"mcl_stairs:stair_spruce\",\"mcl_bows:arrow\",\"mcl_core:emerald\",\"mcl_nether:glowstone\",\"mcl_core:stone_with_redstone\",\"mcl_core:ladder\",\"mcl_dispensers:dispenser\",\"mcl_redstone:redstone\",\"mcl_core:stone\",\"mcl_wool:red_carpet\",\"mcl_core:emeraldblock\",\"mcl_flowers:dandelion\",\"mcl_core:dirt_with_grass\",\"mcl_core:dirt\",\"mcl_trees:wood_oak\",\"mcl_fire:flint_and_steel\",\"mcl_core:barrier\"}","mcl_health":"20","mcl_hunger:exhaustion":"0","mcl_hunger:hunger":"20","mcl_hunger:saturation":"5","mcl_inventory:switch_stack":"64","mcl_potions:_EF_absorption":"return nil","mcl_potions:_EF_bad_luck":"return nil","mcl_potions:_EF_bad_omen":"return nil","mcl_potions:_EF_blindness":"return nil","mcl_potions:_EF_conduit_power":"return nil","mcl_potions:_EF_darkness":"return nil","mcl_potions:_EF_dolphin_grace":"return nil","mcl_potions:_EF_fatigue":"return nil","mcl_potions:_EF_fire_resistance":"return nil","mcl_potions:_EF_glowing":"return nil","mcl_potions:_EF_haste":"return nil","mcl_potions:_EF_health_boost":"return nil","mcl_potions:_EF_hero_of_village":"return nil","mcl_potions:_EF_hunger":"return nil","mcl_potions:_EF_infested":"return nil","mcl_potions:_EF_invisibility":"return nil","mcl_potions:_EF_leaping":"return nil","mcl_potions:_EF_levitation":"return nil","mcl_potions:_EF_luck":"return nil","mcl_potions:_EF_nausea":"return nil","mcl_potions:_EF_night_vision":"return nil","mcl_potions:_EF_oozing":"return nil","mcl_potions:_EF_poison":"return nil","mcl_potions:_EF_regeneration":"return nil","mcl_potions:_EF_resistance":"return nil","mcl_potions:_EF_saturation":"return nil","mcl_potions:_EF_slow_falling":"return nil","mcl_potions:_EF_slowness":"return nil","mcl_potions:_EF_strength":"return nil","mcl_potions:_EF_swiftness":"return nil","mcl_potions:_EF_water_breathing":"return nil","mcl_potions:_EF_weakness":"return nil","mcl_potions:_EF_weaving":"return nil","mcl_potions:_EF_wind_charged":"return nil","mcl_potions:_EF_withering":"return nil","mcl_skins:skin":"return {slim_arms=false,base=\"mcl_skins_base_1.png\",footwear=\"mcl_skins_footwear_1.png\",eye=\"mcl_skins_eye_2.png\",mouth=\"mcl_skins_mouth_1.png\",bottom=\"mcl_skins_bottom_1.png\",top=\"mcl_skins_top_1.png\",hair=\"mcl_skins_hair_2.png\",headwear=\"blank.png\",base_color=4290017879,top_color=4288230709,bottom_color=4284762425,hair_color=4284303163}","night_vision":"0"}
+breath = 10
+yaw = 275
+hp = 20
+position = (2291.87,165,2660.21)
+pitch = 19.9899998
+name = singleplayer
+version = 1
+PlayerArgsEnd
+List hand 1
+Width 0
+Item mcl_meshhand:mcl_skins_base_1B47A57FF_male_crea 1 0 "\u0001tool_capabilities\u0002{\"damage_groups\":{\"fleshy\":1},\"full_punch_interval\":0.25,\"groupcaps\":{\"axey_dig\":{\"maxlevel\":0,\"times\":[null,0.0,0.20000000298023224,0.34999999403953552,0.44999998807907104,0.64999997615814209,0.75,0.89999997615814209,1.0499999523162842,1.25,1.5,2.25,3.0,3.75,4.5],\"uses\":0},\"creative_breakable\":{\"maxlevel\":1,\"times\":[null,0.0],\"uses\":0},\"handy_dig\":{\"maxlevel\":0,\"times\":[null,0.0,0.0,0.20000000298023224,0.34999999403953552,0.44999998807907104,0.64999997615814209,0.75,0.89999997615814209,1.0,1.0499999523162842,1.25,1.5,2.0999999046325684,2.25,2.7000000476837158,3.0,3.75,4.1999998092651367,4.5,82.5],\"uses\":0},\"hoey_dig\":{\"maxlevel\":0,\"times\":[null,0.0,0.20000000298023224,0.34999999403953552,0.75,0.89999997615814209,1.0499999523162842,1.5,4.5],\"uses\":0},\"pickaxey_dig_default\":{\"maxlevel\":0,\"times\":[null,0.0,0.5,2.0,2.5,3.5,3.75,4.0,5.0,6.25,7.0,7.5,9.0,10.0,12.5,14.0,15.0,17.5,25.0,50.0,112.5,150.0,250.0],\"uses\":0},\"shearsy_cobweb_dig\":{\"maxlevel\":0,\"times\":[null,20.0],\"uses\":0},\"shearsy_dig\":{\"maxlevel\":0,\"times\":[null,0.0,0.5,1.0,3.5],\"uses\":0},\"shearsy_wool_dig\":{\"maxlevel\":0,\"times\":[null,4.0],\"uses\":0},\"shovely_dig\":{\"maxlevel\":0,\"times\":[null,0.20000000298023224,0.75,0.89999997615814209,1.0,1.0499999523162842],\"uses\":0},\"swordy_cobweb_dig\":{\"maxlevel\":0,\"times\":[null,20.0],\"uses\":0},\"swordy_dig\":{\"maxlevel\":0,\"times\":[null,0.5,1.0,3.5,5.0],\"uses\":0}},\"max_drop_level\":0,\"punch_attack_uses\":0}\u0003"
+EndInventoryList
+List offhand 1
+Width 0
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List armor 5
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List sorter 1
+Width 0
+Empty
+EndInventoryList
+List main 36
+Width 9
+Item mcl_stairs:stair_oak
+Item mcl_core:stone 64
+Item mcl_core:stone_with_redstone 64
+Item mcl_trees:wood_spruce
+Item mcl_stairs:slab_spruce 64
+Empty
+Item mcl_stairs:slab_cobble 64
+Item mcl_stairs:stair_spruce 64
+Item mcl_core:stone_with_emerald 64
+Item mcl_core:cobble
+Item mcl_redstone:redstone 5
+Item mcl_mobitems:rotten_flesh 2
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item mcl_bows:arrow 56
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List enchanting_item 1
+Width 0
+Empty
+EndInventoryList
+List enderchest 27
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List enchanting 1
+Width 0
+Empty
+EndInventoryList
+List craft 4
+Width 2
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List enchanting_lapis 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

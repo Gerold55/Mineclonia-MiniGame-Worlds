@@ -1,0 +1,1 @@
+{"config":"return {arenas={cove={radius=128,max_players=8,enabled=true,chests={},label=\"Cove\",tumble_layers={},spawn_points={}}},lobby_spawn={z=0,x=0,y=10},player_spawns={singleplayer={z=-288,x=334,y=17}}}"}

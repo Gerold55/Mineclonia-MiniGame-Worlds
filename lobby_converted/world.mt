@@ -1,0 +1,13 @@
+backend = sqlite3
+gameid = mineclonia
+creative_mode = true
+enable_damage = false
+server_announce = false
+load_mod_worldedit_shortcommands = mods/worldedit/worldedit_shortcommands
+load_mod_worldedit_commands = mods/worldedit/worldedit_commands
+load_mod_battle_lobby = mods/battle_lobby
+load_mod_worldedit_brush = mods/worldedit/worldedit_brush
+load_mod_worldedit = mods/worldedit/worldedit
+load_mod_mc_water = mods/mc_water
+player_backend = files
+auth_backend = files
